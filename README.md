@@ -2,4 +2,4 @@
 
 i am adding to the readme
 try after push
-try again
+this is the thing that should disappear
